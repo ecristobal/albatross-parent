@@ -23,7 +23,7 @@
     </modules>
     
     <scm>
-        <developerConnection>scm:git:https://github.com/ecristobal/albatross-parent.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/ecristobal/albatross.git</developerConnection>
     </scm>
 
     <properties>
